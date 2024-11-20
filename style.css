@@ -124,23 +124,24 @@
     }
     .imageHolder{
         border:solid green;
-        display:block;
+        display:flex;
     }
     .splashGoal{
-        width:100%;
+        width:50%;
+        margin:2em;
         border-radius:0;
     }
     .authContainer{
         border:solid red;
         width:100%;
-        display:block;
+        display:none;
         height:32vh;
     }
     .splshTitle{
         border:solid blue;
         font-size:42px;
         text-align:center;
-        width:100%;
+        width:50%;
     }
 }
 /* {MOBILE}{MOBILE}{MOBILE}{MOBILE} */
